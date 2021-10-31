@@ -5,6 +5,8 @@
       <map>
         <entry key="app/src/main/res/layout-v23/activity_main.xml" value="0.10989583333333333" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.27395833333333336" />
+        <entry key="app/src/main/res/layout/activity_search.xml" value="0.26875" />
       </map>
     </option>
   </component>
